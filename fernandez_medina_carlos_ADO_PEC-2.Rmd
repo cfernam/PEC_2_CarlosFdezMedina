@@ -28,7 +28,7 @@ output:
 
 ```
 
-GitHub: https://github.com/cferna0256/PEC_2_CarlosFdezMedina
+GitHub: https://github.com/cfernam/PEC_2_CarlosFdezMedina
 
 # Abstract.
 
